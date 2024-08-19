@@ -5,11 +5,6 @@
 
 - 📫 How to reach me **gowthams2647@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gowtham-selvakumar-636326259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gowtham-selvakumar-636326259/" height="30" width="40" /></a>
-<a href="https://instagram.com/gowtham_selvakumarr?igshid=nzzlodbkywe4ng==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/gowtham_selvakumarr?igshid=nzzlodbkywe4ng==" height="30" width="40" /></a>
-</p>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
